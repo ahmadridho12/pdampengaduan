@@ -18,6 +18,8 @@
                 <th>Username</th>
                 <th>Telp</th>
                 <th>Detail</th>
+                <th>ajsalsil</th>
+                <th>Detaajjallail</th>
             </tr>
         </thead>
         <tbody>
